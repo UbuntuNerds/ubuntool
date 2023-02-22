@@ -7,7 +7,6 @@ I have a private branch with all the really advanced stuff)
 Module info:
 	Dont put readmes on your modules in the modules section. make a directory and put the readmes there.
 	Make sure to chmod (i use 755) the modules so they can run.
-	Python and other coding languages should work as modules, this is untested though.
 	Change updatescript.sh if your scripts add any dependencies or if certain parts of it have long load times but only need to be loaded once.
 	Remember that using the dissasembler sepearates things by function, so modules with functions dependent on eachother in them cant be dissasembled.
 	Dissasembler also doesnt replace returns with exits.
@@ -16,3 +15,6 @@ Module info:
 Important note:
 	This isnt just for cyberpatriot, it primarily is but you can use it for other things.
 	ex. collection of games
+Peace
+
+Nobody65534 and VillansRule
